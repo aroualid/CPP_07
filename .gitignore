@@ -1,0 +1,7 @@
+obj/
+*.o
+*.d
+a.out
+templates
+
+
